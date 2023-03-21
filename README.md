@@ -1,5 +1,5 @@
-This is my studied log.
-I learn from youtube: URL: https://www.youtube.com/watch?v=q4fLzIr3BwE&t=947s
+This is my study log..
+I learned from youtube: URL: https://www.youtube.com/watch?v=q4fLzIr3BwE&t=947s
 
 Thanks.
 
